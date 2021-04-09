@@ -8,12 +8,10 @@ I am a Beginner Programmer
 
 <!-- TODO: Add last video link -->
 
-- ðŸ”­ Iâ€™m currently working at @Toptal
+- I am not working yet still a student
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- ðŸ¤” Iâ€™m looking for help with Outstanding Video ideas.
-- ðŸ“« How to reach me: pyzluclufer@gmail.com.
-- ðŸ˜„ Pronouns: xN5.ID, xN5Gans, rachyrayy.
-- âš¡ Fun fact: I play games and go to the GYM very often.
+- :computer: I am looking for friends to learn coding together
+- :computer: You can find me at pyzlucufer@gmail.com
 
 #### Programming Language That I Can
 
