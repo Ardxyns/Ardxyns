@@ -4,8 +4,6 @@ Just Weebs Who like in the IT
 
 :mailbox: Reach me out!
 
-!-- TODO: Add last video link -->
-
 - I'm Contemplating How To Rule the World
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - :computer: I am looking for friends to learn coding together
@@ -37,6 +35,6 @@ Just Weebs Who like in the IT
 
 #### Github Stats
 
-![Lota1337 github stats](https://github-readme-stats.vercel.app/api?username=xN5-Gans&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Lota1337 github stats](https://github-readme-stats.vercel.app/api?username=Lota1337&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
