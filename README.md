@@ -1,4 +1,4 @@
-## Hi I'm Lota <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Ardxyns <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 Just Weebs Who like in the IT
 
@@ -19,12 +19,12 @@ Just Weebs Who like in the IT
 </p>
 
 #### 📧Contacts
-- :email: pyzluclufer@gmail.com
+- :email: ardiyanz.id@gmail.com
 
 
 #### 👤Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xN5-Gans.xN5Gans)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ardxyns.Ardxyns)
 
 <details>
 <summary>
