@@ -23,7 +23,7 @@ Just Weebs Who like in the IT
 
 #### 👤Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ardxyns.Ardxyns)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Github.Github)
 
 <details>
 <summary>
