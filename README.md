@@ -7,8 +7,7 @@ Just Weebs Who like in the IT
 - I'm Contemplating How To Rule the World
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - :computer: I am looking for friends to learn coding together
-- :computer: You can find me at pyzlucufer@gmail.com
-
+- :computer: You can find me at -
 <!-- TODO: Make technologies links takes you to repositories -->
 ### 🚀Skill
 <p>
@@ -35,6 +34,6 @@ Just Weebs Who like in the IT
 
 #### Github Stats
 
-![Lota1337 github stats](https://github-readme-stats.vercel.app/api?username=Lota1337&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ardxyns github stats](https://github-readme-stats.vercel.app/api?username=Lota1337&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
