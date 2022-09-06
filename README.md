@@ -23,7 +23,7 @@ Just Weebs Who like in the IT
 
 #### 👤Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Github.Github)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ardxyns.Github)
 
 <details>
 <summary>
@@ -34,6 +34,6 @@ Just Weebs Who like in the IT
 
 #### Github Stats
 
-![Ardxyns github stats](https://github-readme-stats.vercel.app/api?username=Lota1337&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ardxyns github stats](https://github-readme-stats.vercel.app/api?username=Ardxyns&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
